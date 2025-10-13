@@ -8,9 +8,9 @@ _<span style="color:#87cefa">Mon nom est Peter Parker. J'ai été mordu par une 
 
 ### __Ok nan, j'crois que je me suis trompé d'histoire__
 
-Salut moi c'est Favien (le GOAT tous simplement), je suis étudiant en deuxieme année de BUT informatique a l'IUT Robert-Schuman.
+OK, on se le fait pour la vrai dernière fois. Mon nom est Favien (le GOAT tous simplement), je suis étudiant en deuxieme année de BUT informatique a l'IUT Robert-Schuman.
 
-J'aime dev (sinon je serai pas la),les jeux video (original), le jeux de role (original x2), les comics(mais je suis pauvre), les series (surtout d'animations (regarder Steven Universe)), faire des refs que personne n'a (mais bon tel est la voix) **<span style="color: red">et je suis vraiment tres nul pour me presenter.**
+J'aime dev (sinon je serai pas la), les jeux video (original), le jeux de role (original x2), les comics(mais je suis pauvre), les series (surtout d'animations (regarder Steven Universe)), faire des refs que personne n'a (mais bon tel est la voix) **<span style="color: red">et je suis vraiment tres nul pour me presenter.**
 
 # Donc voila quelque truc que je sais utilisé et quelque projet que j'ai fait
 
