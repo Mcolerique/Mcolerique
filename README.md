@@ -1,18 +1,19 @@
-## _<span style="color:#87cefa">OK, on se le fait une dernière fois._
-_<span style="color:#87cefa">Mon nom est Peter Parker. J'ai été mordu par une araignée radioactive, et pendant les 10 dernieres année, j'ai été le seule et unique Spider - Man ...</span>_
+## _<span style="color:#87cefa">OK, on se le fait une dernière fois.</span>_
+_<span style="color:#87cefa">
+Mon nom est Peter Parker. J’ai été mordu par une araignée radioactive, et pendant les 10 dernières années, j’ai été le seul et unique Spider-Man...</span>_
 <div align="center">
   <h1>
   <img src="./src/sp.gif" width="480px" height="282px"/>
   </h1>
 </div>
 
-### __Ok nan, j'crois que je me suis trompé d'histoire__
+### __Ok nan, j’crois que je me suis trompé d’histoire.__
 
-OK, on se le fait pour la vrai dernière fois. Mon nom est Favien (le GOAT tous simplement), je suis étudiant en deuxieme année de BUT informatique a l'IUT Robert-Schuman.
+Ok, on se le fait pour la vrai dernière fois. Mon nom est Favien (le GOAT tous simplement), je suis étudiant en deuxieme année de BUT informatique a l'IUT Robert-Schuman.
 
-J'aime dev (sinon je serai pas la), les jeux video (original), le jeux de role (original x2), les comics(mais je suis pauvre), les series (surtout d'animations (regarder Steven Universe)), faire des refs que personne n'a (mais bon tel est la voix) **<span style="color: red">et je suis vraiment tres nul pour me presenter.**
+J’aime le dev (sinon je serais pas là), les jeux vidéo (original), le jeu de rôle (original x2), les comics (mais je suis pauvre), les séries (surtout d’animation — regardez Steven Universe), faire des refs que personne n’a (mais bon, tel est la voie) **<span style="color: red">et je suis vraiment très nul pour me présenter.</span>**
 
-# Donc voila quelque truc que je sais utilisé et quelque projet que j'ai fait
+# Donc voilà quelques trucs que je sais utiliser et quelques projets que j’ai faits
 
 
 <div align=center>
