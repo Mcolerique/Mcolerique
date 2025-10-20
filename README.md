@@ -18,13 +18,13 @@ J’aime dev (sinon je serais pas là), les jeux vidéo (original), le jeu de r�
 <table>
 <tr>
 <td valign="top" width="50%">
-  <div align="center"><b>Languages</b></div>
+  <div align="center"><b>Langages</b></div>
   <div align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,java,html,css,php,cs&theme=dark" />
     </a>
   </div>
-  <div align="center"><b>Tools</b></div>
+  <div align="center"><b>Outils</b></div>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,vscodium,idea,gitlab,github&theme=dark" />
   </div>
@@ -60,6 +60,9 @@ J’aime dev (sinon je serais pas là), les jeux vidéo (original), le jeu de r�
       <br>
       <a href="https://github.com/Mcolerique/Snake-en-assembleur">
         <img width=320 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcolerique&repo=Snake-en-assembleur&show_icons=true&theme=synthwave&hide_border=true&border_radius=30">
+      </a>
+      <a href="https://github.com/Mcolerique/Gestion-BDD-Winforms">
+        <img width=320 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcolerique&repo=Gestion-BDD-Winforms&show_icons=true&theme=synthwave&hide_border=true&border_radius=30">
       </a>
     </div>
   </td>
