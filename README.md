@@ -21,21 +21,21 @@ J’aime dev (sinon je serais pas là), les jeux vidéo (original), le jeu de r�
   <div align="center"><b>Langages</b></div>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,java,html,css,php,cs&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=c,java,html,css,php,cs" />
     </a>
   </div>
   <div align="center"><b>Outils</b></div>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscodium,idea,gitlab,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,vscodium,idea,gitlab,github" />
   </div>
   <div align="center"><b>Frameworks</b></div>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
   </div>
   </td>
   <td>
   <div align="center" style="width: 100%">
-    <img align="center" alt="Mcolerique's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcolerique&layout=compact&hide=html,tex,jupyter%20notebook&show_icons=true&theme=synthwave&hide_border=true&border_radius=30">
+    <img align="center" alt="Mcolerique's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcolerique&layout=compact&hide=html,tex,jupyter%20notebook&show_icons=true&theme=dracula&hide_border=true&border_radius=30">
   </div>
   </td>
 </tr>
@@ -51,18 +51,18 @@ J’aime dev (sinon je serais pas là), les jeux vidéo (original), le jeu de r�
     <div align="middle"><b>Featured Projects</b><br></div>
     <div align="middle">
       <a href="https://github.com/Mcolerique/POOkemon">
-        <img width=320 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcolerique&repo=POOkemon&show_icons=true&theme=synthwave&hide_border=true&border_radius=30">
+        <img width=320 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcolerique&repo=POOkemon&show_icons=true&theme=dracula&hide_border=true&border_radius=30">
       </a>
       <br>
       <a href="https://github.com/Mcolerique/projet-Yams">
-        <img width=320 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcolerique&repo=projet-Yams&show_icons=true&theme=synthwave&hide_border=true&border_radius=30">
+        <img width=320 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcolerique&repo=projet-Yams&show_icons=true&theme=dracula&hide_border=true&border_radius=30">
       </a>
       <br>
       <a href="https://github.com/Mcolerique/Snake-en-assembleur">
-        <img width=320 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcolerique&repo=Snake-en-assembleur&show_icons=true&theme=synthwave&hide_border=true&border_radius=30">
+        <img width=320 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcolerique&repo=Snake-en-assembleur&show_icons=true&theme=dracula&hide_border=true&border_radius=30">
       </a>
       <a href="https://github.com/Mcolerique/Gestion-BDD-Winforms">
-        <img width=320 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcolerique&repo=Gestion-BDD-Winforms&show_icons=true&theme=synthwave&hide_border=true&border_radius=30">
+        <img width=320 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcolerique&repo=Gestion-BDD-Winforms&show_icons=true&theme=dracula&hide_border=true&border_radius=30">
       </a>
     </div>
   </td>
