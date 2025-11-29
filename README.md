@@ -13,9 +13,9 @@ Ok, on se la fait pour la vraie dernière fois. Mon nom est Favien (le GOAT tous
 
 J’aime dev (sinon je serais pas là), les jeux vidéo (original), le jeu de rôle (original x2), les comics (mais je suis pauvre), les séries (surtout d’animation — regardez Steven Universe), faire des refs que personne n’a (mais bon, tel est la voie) **<span style="color: red">et je crois que je suis pas très doué pour me présenter.</span>**
 
-# Donc voilà quelques trucs que je sais utiliser et quelques projets que j’ai faits
+# Donc voilà quelques language/outils/framework que je maîtrise et quelques projets que j’ai faits
 
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="50%">
   <div align="center"><b>Langages</b></div>
@@ -30,7 +30,7 @@ J’aime dev (sinon je serais pas là), les jeux vidéo (original), le jeu de r�
   </div>
   <div align="center"><b>Frameworks</b></div>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=laravel" />
   </div>
   </td>
   <td>
@@ -40,10 +40,10 @@ J’aime dev (sinon je serais pas là), les jeux vidéo (original), le jeu de r�
   </td>
 </tr>
 </table>
-<table>
+<table align="center">
 <tr>
   <td>
-  <div align="left">
+  <div align="center">
     <img src="./src/cool-cool-cool-cool.gif" width="350px"/>
   </div>
   </td>
