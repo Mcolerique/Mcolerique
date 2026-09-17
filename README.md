@@ -7,7 +7,7 @@ Mon nom est Peter Parker. J’ai été mordu par une araignée radioactive, et p
 
 ### __Ouai nan, J’crois que je me suis trompé d’histoire.__
 
-Ok, on se la fait pour de vrai cette fois. Mon nom est Favien (le GOAT tout simplement), je suis étudiant en deuxieme année de BUT informatique a l'IUT Robert-Schuman à Illkirch.
+Ok, on se la fait pour de vrai cette fois. Mon nom est Favien (le GOAT tout simplement), je suis étudiant en troisième année de BUT informatique a l'IUT Robert-Schuman à Illkirch.
 
 J’aime dev (sinon je serais pas là), les jeux vidéo (original), le jeu de rôle (original \*2), les comics (mais je suis pauvre), les séries (surtout d’animation — regardez Steven Universe), faire des refs que personne n’a (mais bon, telle est la voie) **et je crois que je suis pas très doué pour me présenter.**
 
